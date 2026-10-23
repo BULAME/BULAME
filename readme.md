@@ -1,1 +1,1 @@
-<img width="890" height="300" alt="dino" src="https://github.com/user-attachments/assets/72fcd840-fe5d-4117-bb81-f85dbf5b2a07" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/1a76c57b-2fd2-49b6-8f05-27f06e6457dd" />
