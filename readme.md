@@ -1,2 +1,1 @@
-<img width="540" height="300" alt="image" src="https://github.com/BULAME/BULAME/blob/main/indir%20(12).gif?raw=true" />
-
+<img width="890" height="300" alt="dino" src="https://github.com/user-attachments/assets/72fcd840-fe5d-4117-bb81-f85dbf5b2a07" />
