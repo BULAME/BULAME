@@ -1,2 +1,2 @@
-<img width="540" height="300" alt="image" src="https://github.com/user-attachments/assets/a31dd0d1-96c4-4d83-873d-25e9adab168d" />
+<img width="540" height="300" alt="image" src="https://github.com/BULAME/BULAME/blob/main/indir%20(12).gif?raw=true" />
 
